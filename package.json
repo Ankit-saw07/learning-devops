@@ -1,0 +1,21 @@
+{
+  "name": "devops-practise",
+  "version": "1.0.0",
+  "description": "Hello Git!",
+  "main": "hello.js",
+  "scripts": {
+    "run" : "node index.js",
+    "test" : "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ankit-saw07/learning-devops.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ankit-saw07/learning-devops/issues"
+  },
+  "homepage": "https://github.com/Ankit-saw07/learning-devops#readme"
+}
